@@ -1,5 +1,5 @@
 # The VBA of Wall Street
-___
+
 ### Stock Marketing Analysis 
 ___
 - Created a script that looped through all the stocks for one year, on every worksheet, for each run and took the following information.
