@@ -2,6 +2,7 @@
 
 ### Stock Marketing Analysis 
 ___
+![1-Logo](Images/stock.jpg)
 - Created a script that looped through all the stocks for one year, on every worksheet, for each run, and took the following information.
   - The ticker symbol.
   - Yearly change from opening price at the beginning of a given year to the closing price at the end of that year.
@@ -9,5 +10,6 @@ ___
   - The total stock volume of the stock.
 - Included conditional formatting that is highlight in green for a positive change and in red for a negative change.
 
+![1-Logo](Images/excel.jpg)
 ### File 
 Used the data from [Stock Data](Multiple_year_stock_data.xlsx) to generate a final report :tada: 
